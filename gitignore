@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Local settings and secrets
+.env
+*.env
+config.json
+cookies.json
+secrets.json
+proxy.txt
+proxies.txt
+
+# Full/private source code
+Iran_Store_Map_Extractor.py
+iran_store_map_extractor.py
+*_private.py
+*_full.py
+
+# Large or private outputs
+*.xlsx
+*.xls
+*.csv
+*.json
+*.parquet
+*.sqlite
+*.db
+
+# Keep only public sample files
+!sample_output_schema.csv
+!sample_config.example.json
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
