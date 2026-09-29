@@ -1,0 +1,4 @@
+نام فروشگاه,نوع فروشگاه,shop_tag,استان/شهر جستجو,استان,شهر,آدرس,تلفن,وبسایت,برند,lat,lon,osm_url,source,scraped_at
+Sample Store,سوپرمارکت,supermarket,Tehran Province,Tehran,Tehran,Sample address,,,,35.7000,51.4000,https://www.openstreetmap.org/node/000000,OpenStreetMap/Overpass,2026-09-29 00:00:00
+Sample Bakery,نانوایی,bakery,East Azerbaijan Province,East Azerbaijan,Tabriz,Sample address,,,,38.0800,46.2900,https://www.openstreetmap.org/node/000001,OpenStreetMap/Overpass,2026-09-29 00:00:00
+
